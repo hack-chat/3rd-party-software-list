@@ -4,7 +4,7 @@ A user contributed list of hack.chat bots, client interfaces, browser extensions
 
 ## Adding your software
 
-Want to list your software that you've made? It's as easy as forking this repository, modifying this readme with the required information. Please include the link to the git (or other pertinent link(s)), along with a quick description. Don't see a category that fits your software? Feel free to add one.
+Want to list your software that you've made? It's as easy as forking this repository, modifying this readme with the required information, then submitting a pull request. Make sure to follow the structure and include the link to the git (or other pertinent link(s)), along with a quick description. Don't see a category that fits your software? Feel free to add one.
 
 ### Bots:
 
