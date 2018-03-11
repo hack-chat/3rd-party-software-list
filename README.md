@@ -1,2 +1,23 @@
-# 3rd-party-software-list
-bots, clients and other software people have made for hack.chat
+# Hack.Chat Software List
+
+A user contributed list of hack.chat bots, client interfaces, browser extensions, firmware, etc. 
+
+## Adding your software
+
+Want to list your software that you've made? It's as easy as forking this repository, modifying this readme with the required information. Please include the link to the git (or other pertinent link(s)), along with a quick description. Don't see a category that fits your software? Feel free to add one.
+
+### Bots:
+
+* Placeholder Bot - [https://github.com/hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - This is a placeholder, please delete if you are the first one to add to this category.
+
+### Clients:
+
+* HatClient - [https://github.com/HatCrew/HatClient](https://github.com/HatCrew/HatClient) - A custom client for forks of hack.chat http://paswd4.com/HatClient
+
+### Browser Extensions:
+
+* Placeholder Bot - [https://github.com/hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - This is a placeholder, please delete if you are the first one to add to this category.
+
+### MPU Firmware:
+
+* Placeholder Bot - [https://github.com/hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - This is a placeholder, please delete if you are the first one to add to this category.
