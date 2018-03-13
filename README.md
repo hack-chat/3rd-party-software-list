@@ -12,6 +12,8 @@ Want to list your software that you've made? It's as easy as forking this reposi
 
 ### Clients:
 
+* termchat - [https://github.com/alexanderepstein/termchat](https://github.com/alexanderepstein/termchat) - Chat through the terminal with hack.chat
+
 * HatClient - [https://github.com/HatCrew/HatClient](https://github.com/HatCrew/HatClient) - A custom client for forks of hack.chat http://paswd4.com/HatClient
 
 ### Browser Extensions:
