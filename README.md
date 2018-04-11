@@ -8,7 +8,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 
 ### Bots:
 
-* Placeholder Bot - [https://github.com/hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - This is a placeholder, please delete if you are the first one to add to this category.
+* JHCBot - [https://github.com/OpSimple/jhcbot](https://github.com/OpSimple/jhcbot) - Java hack.chat Bot is simple bot for https://hack.chat/ in java.
 
 ### Clients:
 
