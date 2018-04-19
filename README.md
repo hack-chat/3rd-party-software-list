@@ -8,17 +8,49 @@ Want to list your software that you've made? It's as easy as forking this reposi
 
 ### Bots:
 
+* TBotT - [https://github.com/M4GNV5/Hack.ChatBot](https://github.com/M4GNV5/Hack.ChatBot) - Bot for hack.chat
+
 * JHCBot - [https://github.com/OpSimple/jhcbot](https://github.com/OpSimple/jhcbot) - Java hack.chat Bot is simple bot for https://hack.chat/ in java.
 
+* modBot - [https://github.com/ToastyStoemp/modBot](https://github.com/ToastyStoemp/modBot) - A moderator bot for Hack.Chat
+
+* Hack.ChatAIBot - [https://github.com/ToastyStoemp/Hack.ChatAIBot](https://github.com/ToastyStoemp/Hack.ChatAIBot) - A Cleverbot based bot for Hack.Chat
+
+* EbearBot - [https://github.com/VVhitehead/EbearBot](https://github.com/VVhitehead/EbearBot) - Simple bot for hack.chat. Runs Google api, Wolfram Alpha api & ExistentialismBear CLI program.
+
+* ThinBot - [https://github.com/PASwd4/ThinBot](https://github.com/PASwd4/ThinBot) - A very simple bot for hack.chat that can be customized to meet any need.
+
+* Python Hack.chat Bot - [https://github.com/neelkamath/hack.chat-bot](https://github.com/neelkamath/hack.chat-bot) - A general use bot for hack.chat
+
+* Stammy - [https://github.com/stamsarger/Stammy](https://github.com/stamsarger/Stammy) - A smooth, organized, 'powerful' hack.chat bot
+
+### Bouncers:
+
+* Harpoon - [https://github.com/0x17de/Harpoon](https://github.com/0x17de/Harpoon) - Connect to various chat services through this bouncer.
+
+### Browser Extensions:
+
+* FireFox Addon - [https://github.com/raf924/hack.chat-firefox](https://github.com/raf924/hack.chat-firefox) - Hack.chat FireFox addon for hack.chat
+
+* Hack.Chat Enhancement kit - [https://github.com/ToastyStoemp/Hack.Chat-Enhancement-kit](https://github.com/ToastyStoemp/Hack.Chat-Enhancement-kit) - Adds certain features to the legacy client
+
 ### Clients:
+
+* hack.chat Desktop - [https://github.com/raf924/hack.chat-desktop](https://github.com/raf924/hack.chat-desktop) - Desktop client for hack.chat (Soon to be for other services)
 
 * termchat - [https://github.com/alexanderepstein/termchat](https://github.com/alexanderepstein/termchat) - Chat through the terminal with hack.chat
 
 * HatClient - [https://github.com/HatCrew/HatClient](https://github.com/HatCrew/HatClient) - A custom client for forks of hack.chat http://paswd4.com/HatClient
 
-### Browser Extensions:
+* Hack.chat Terminal Client - [https://github.com/MinusGix/hack.chat-terminal-client](https://github.com/MinusGix/hack.chat-terminal-client) - A client for hack chat that runs in the terminal.
 
-* Placeholder Bot - [https://github.com/hack-chat/3rd-party-software-list](https://github.com/hack-chat/3rd-party-software-list) - This is a placeholder, please delete if you are the first one to add to this category.
+### Docker Containers:
+
+* McGriddle's Docker Container - [https://github.com/McGriddle/docker-hacker-chat](https://github.com/McGriddle/docker-hacker-chat) - Docker container for hack.chat
+
+### Libraries:
+
+* Python HCLib - [https://github.com/neelkamath/hclib](https://github.com/neelkamath/hclib) - A Python library to connect to hack.chat
 
 ### MPU Firmware:
 
