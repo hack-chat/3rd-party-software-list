@@ -50,7 +50,10 @@ Want to list your software that you've made? It's as easy as forking this reposi
 
 ### Libraries:
 
-* Python HCLib - [https://github.com/neelkamath/hclib](https://github.com/neelkamath/hclib) - A Python library to connect to hack.chat
+* Python HCLib - [https://github.com/neelkamath/hclib](https://github.com/neelkamath/hclib) - A library to connect to https://hack.chat/
+* Python hackchat - [https://github.com/gkbrk/hackchat](https://github.com/gkbrk/hackchat) - An event-driven Python library for hack.chat
+* JavaScript hack.chat.js - [https://github.com/WebFreak001/hack.chat.js](https://github.com/WebFreak001/hack.chat.js) - *No longer maintained* API wrapper for hack.chat using ws package
+* Rush rust-hackchat - [https://github.com/gkbrk/rust-hackchat](https://github.com/gkbrk/rust-hackchat) - A hack.chat API in Rust.
 
 ### MPU Firmware:
 
