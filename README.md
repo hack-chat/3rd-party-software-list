@@ -56,6 +56,14 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |JavaScript|[hack.chat.js](https://github.com/WebFreak001/hack.chat.js)|*No longer maintained* API wrapper for hack.chat using ws package|
 |Rust|[rust-hackchat](https://github.com/gkbrk/rust-hackchat)|A hack.chat API in Rust.|
 
+### Android apps
+
+|App|
+|:-:|
+|[hack.chat](https://play.google.com/store/apps/details?id=chat.hack.hackchat)|
+|[Nippy Chat - (hack.chat)](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)|
+|[hack chat ~ make quick chatrooms~ no history saved](https://play.google.com/store/apps/details?id=vinit.hack.chat)|
+
 ### MPU Firmware:
 
 |MPU Firmware|Description|
