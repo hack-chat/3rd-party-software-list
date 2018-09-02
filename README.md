@@ -66,6 +66,12 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[Nippy Chat - (hack.chat)](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)|
 |[hack chat ~ make quick chatrooms~ no history saved](https://play.google.com/store/apps/details?id=vinit.hack.chat)|
 
+### Server Modules:
+
+|Link|Description|
+|:--:|:---------:|
+|[Marzavec Collection](https://github.com/marzavec/hackchat-modules/)|A general use collection of modules|
+
 ### MPU Firmware:
 
 |MPU Firmware|Description|
