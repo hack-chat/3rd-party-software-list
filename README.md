@@ -63,7 +63,6 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |App|
 |:-:|
 |[hack.chat](https://play.google.com/store/apps/details?id=chat.hack.hackchat)|
-|[Nippy Chat - (hack.chat)](https://play.google.com/store/apps/details?id=com.niobbu.nippychat)|
 |[hack chat ~ make quick chatrooms~ no history saved](https://play.google.com/store/apps/details?id=vinit.hack.chat)|
 
 ### Server Modules:
