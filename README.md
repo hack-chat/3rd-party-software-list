@@ -18,6 +18,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[ThinBot](https://github.com/PASwd4/ThinBot)|A very simple bot for hack.chat that can be customized to meet any need.|
 |[hack.chat bot](https://github.com/neelkamath/hack.chat-bot)|A general use bot for hack.chat|
 |[Stammy](https://github.com/stamsarger/Stammy)|A smooth, organized, 'powerful' hack.chat bot|
+|[Bee](https://github.com/youthlife/bee2-hc-bot)|Cool bot for hack.chat ✌|
 
 ### Bouncers:
 
