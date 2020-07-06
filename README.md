@@ -59,6 +59,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |Python|[hackchat](https://github.com/gkbrk/hackchat)|An event-driven Python library for hack.chat|
 |JavaScript|[hack.chat.js](https://github.com/WebFreak001/hack.chat.js)|*No longer maintained* API wrapper for hack.chat using ws package|
 |Rust|[rust-hackchat](https://github.com/gkbrk/rust-hackchat)|A hack.chat API in Rust.|
+|C#|[HackchatSharp](https://github.com/UnrealSecurity/HackchatSharp)|HackchatSharp is a C# library for hack.chat.|
 
 ### Android apps:
 
