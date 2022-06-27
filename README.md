@@ -43,8 +43,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[HatClient](https://github.com/HatCrew/HatClient)|A custom client for forks of hack.chat http://paswd4.com/HatClient|
 |[Hack.chat Terminal Client](https://github.com/MinusGix/hack.chat-terminal-client)|A client for hack chat that runs in the terminal.|
 |[hackchat-electron](https://github.com/OpSimple/hackchat-electron)|A simple desktop client for hack.chat using electron.|
-|[hackchat-pyclient](https://github.com/AnnikaV9/hackchat-pyclient)|A gui client for hack.chat that runs on python3. (No longer maintained)|
-|[AnnikaV9's terminal client](https://github.com/AnnikaV9/hcclient)|A terminal client for connecting to [hack.chat](https://github.com/hack-chat/main) servers.|
+|[AnnikaV9's Terminal Client](https://github.com/AnnikaV9/hcclient)|A containerized terminal client for connecting to [hack.chat](https://github.com/hack-chat/main) instances.|
 
 ### Docker Containers:
 
