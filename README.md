@@ -20,6 +20,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[Stammy](https://github.com/stamsarger/Stammy)|A smooth, organized, 'powerful' hack.chat bot|
 |[Bee](https://github.com/youthlife/bee2-hc-bot)|Cool bot for hack.chat ✌|
 |[TelegramHackchatBot](https://github.com/GeorgeMiao219/TelegramHackchatBot)|A splitroom bot in telegram, powered by Hack.Chat|
+|[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
 
 ### Bouncers:
 
