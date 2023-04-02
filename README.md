@@ -76,6 +76,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |Link|Description|
 |:--:|:---------:|
 |[Marzavec Collection](https://github.com/marzavec/hackchat-modules/)|A general use collection of modules|
+|[HC-Plus](https://github.com/MrZhang365/HC-Plus)|Hackchat server enhancement module. HackChat服务器的增强模块|
 
 ### MPU Firmware:
 
