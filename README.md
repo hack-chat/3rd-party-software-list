@@ -45,7 +45,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[Hack.chat Terminal Client](https://github.com/MinusGix/hack.chat-terminal-client)|A client for hack chat that runs in the terminal.|
 |[hackchat-electron](https://github.com/OpSimple/hackchat-electron)|A simple desktop client for hack.chat using electron.|
 |[AnnikaV9's Terminal Client](https://github.com/AnnikaV9/hcclient)|A containerized terminal client for connecting to [hack.chat](https://github.com/hack-chat/main) instances.|
-|[hackchat client plus](https://github.com/xjzh123/hackchat-client-plus)|Just tweaked legacy web client. A bunch of features and optimizations are added.|
+|[hackchat client plus](https://github.com/Hiyoteam/hackchat-client-plus)|Just tweaked legacy web client. A bunch of features and optimizations are added.|
 
 ### Docker Containers:
 
