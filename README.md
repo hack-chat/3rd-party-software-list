@@ -45,7 +45,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[Hack.chat Terminal Client](https://github.com/MinusGix/hack.chat-terminal-client)|A client for hack chat that runs in the terminal.|
 |[hackchat-electron](https://github.com/OpSimple/hackchat-electron)|A simple desktop client for hack.chat using electron.|
 |[AnnikaV9's Terminal Client](https://github.com/AnnikaV9/hcclient)|A containerized terminal client for connecting to [hack.chat](https://github.com/hack-chat/main) instances.|
-|[hackchat client plus](https://github.com/xjzh123/hackchat-client-plus)|Just tweaked legacy web client. A bunch of features and optimizations are added.|
+|[hackchat client plus](https://github.com/Hiyoteam/hackchat-client-plus)|Just tweaked legacy web client. A bunch of features and optimizations are added.|
 
 ### Docker Containers:
 
@@ -61,6 +61,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |--------|-------|-----------|
 |Python|[hclib](https://github.com/neelkamath/hclib)|A library to connect to https://hack.chat/
 |Python|[hackchat](https://github.com/gkbrk/hackchat)|An event-driven Python library for hack.chat|
+|Python|[hiyobot](https://github.com/Hiyoteam/hiyobot)|simple & powerful python bot framework for hack.chat|
 |JavaScript|[hack.chat.js](https://github.com/WebFreak001/hack.chat.js)|*No longer maintained* API wrapper for hack.chat using ws package|
 |Rust|[rust-hackchat](https://github.com/gkbrk/rust-hackchat)|A hack.chat API in Rust.|
 |C#|[HackchatSharp](https://github.com/UnrealSecurity/HackchatSharp)|HackchatSharp is a C# library for hack.chat.|
