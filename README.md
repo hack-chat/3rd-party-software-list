@@ -21,6 +21,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[Bee](https://github.com/youthlife/bee2-hc-bot)|Cool bot for hack.chat ✌|
 |[TelegramHackchatBot](https://github.com/GeorgeMiao219/TelegramHackchatBot)|A splitroom bot in telegram, powered by Hack.Chat|
 |[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
+|[shinobi](https://github.com/AnnikaV9/shinobi)|Chat logger for hack.chat instances|
 
 ### Bouncers:
 
