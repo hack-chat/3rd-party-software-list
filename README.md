@@ -21,7 +21,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[Bee](https://github.com/youthlife/bee2-hc-bot)|Cool bot for hack.chat ✌|
 |[TelegramHackchatBot](https://github.com/GeorgeMiao219/TelegramHackchatBot)|A splitroom bot in telegram, powered by Hack.Chat|
 |[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
-|[shinobi](https://github.com/AnnikaV9/shinobi)|Chat logger for hack.chat instances|
+|[shinobi](https://github.com/AnnikaV9/shinobi)|An asynchronous multi-channel chat logger|
 
 ### Bouncers:
 
@@ -45,7 +45,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[HatClient](https://github.com/HatCrew/HatClient)|A custom client for forks of hack.chat http://paswd4.com/HatClient|
 |[Hack.chat Terminal Client](https://github.com/MinusGix/hack.chat-terminal-client)|A client for hack chat that runs in the terminal.|
 |[hackchat-electron](https://github.com/OpSimple/hackchat-electron)|A simple desktop client for hack.chat using electron.|
-|[AnnikaV9's Terminal Client](https://github.com/AnnikaV9/hcclient)|A containerized terminal client for connecting to [hack.chat](https://github.com/hack-chat/main) instances.|
+|[AnnikaV9/hcclient](https://github.com/AnnikaV9/hcclient)|A feature-rich and configurable cross-platform terminal client|
 |[hackchat client plus](https://github.com/Hiyoteam/hackchat-client-plus)|Just tweaked legacy web client. A bunch of features and optimizations are added.|
 |[pyHackChatClient](https://github.com/lunzhiPenxil/pyHackChatClient)|A simple encapsulation of offical hackchat page.|
 
