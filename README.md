@@ -53,8 +53,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 
 |Docker|Description|
 |:----:|:---------:|
-|[McGriddle's Docker Container](https://github.com/McGriddle/docker-hacker-chat)|Docker container for hack.chat|
-|[VINGA's Dockerfiles](https://github.com/fanvinga/dockerfiles)|Multiple Dockfiles including Hack·Chat|
+|None| |
 
 
 ### Libraries:
