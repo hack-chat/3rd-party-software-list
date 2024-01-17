@@ -22,7 +22,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[TelegramHackchatBot](https://github.com/GeorgeMiao219/TelegramHackchatBot)|A splitroom bot in telegram, powered by Hack.Chat|
 |[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
 |[shinobi](https://github.com/AnnikaV9/shinobi)|An asynchronous multi-channel chat logger|
-|[SenpaiBot]([https://github.com/AnnikaV9/shinobi](https://github.com/FFUV/Senpai-Bot)|A bot with several commands built in with jokeAPI|
+|[SenpaiBot](https://github.com/FFUV/Senpai-Bot)|A bot with multiple commands in a anime theme with JOKEAPI installed into it|
 
 ### Bouncers:
 
