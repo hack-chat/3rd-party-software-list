@@ -23,7 +23,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
 |[shinobi](https://github.com/AnnikaV9/shinobi)|An asynchronous multi-channel chat logger|
 |[SenpaiBot]([https://github.com/AnnikaV9/shinobi](https://github.com/FFUV/Senpai-Bot))|A bot with several commands built in with jokeAPI|
-
+|[shinobi](https://github.com/AnnikaV9/shinobi)|An asynchronous multi-channel chat logger|
 ### Bouncers:
 
 |Bouncer|Description|
