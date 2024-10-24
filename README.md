@@ -22,6 +22,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[TelegramHackchatBot](https://github.com/GeorgeMiao219/TelegramHackchatBot)|A splitroom bot in telegram, powered by Hack.Chat|
 |[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
 |[shinobi](https://github.com/AnnikaV9/shinobi)|An asynchronous multi-channel chat logger|
+|[DLBot_NextGen](https://github.com/light689/DLBot_ng)|A highly customizable lightweight bot that allows the WebUI to view logs/send messages/receive message commands|
 
 ### Bouncers:
 
