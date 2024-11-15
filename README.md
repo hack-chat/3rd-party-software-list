@@ -68,6 +68,7 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |Rust|[rust-hackchat](https://github.com/gkbrk/rust-hackchat)|A hack.chat API in Rust.|
 |Rust|[Rust-Hackchat-Bot](https://github.com/JankieQwQ/rust-hackchat-bot)|An event-driven Rust library for hack.chat|
 |C#|[HackchatSharp](https://github.com/UnrealSecurity/HackchatSharp)|HackchatSharp is a C# library for hack.chat.|
+|Haskell|[hackchat-hs](https://github.com/Chihaya-Yuka/hackchat-haskell-bot)|Hack.Chat's functional bot. |
 |JavaScript|[HackChat-Botlib](https://github.com/cmd1152/hackchat-botlib)|A library for developing advanced robots, featuring command systems, channel change detection, and support for UpdateMessage and standardized JSON.|
 
 ### Android apps:
