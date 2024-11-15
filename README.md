@@ -23,6 +23,8 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |[OlivOS](https://github.com/OlivOS-Team/OlivOS)|A powerful cross-platform bot|
 |[shinobi](https://github.com/AnnikaV9/shinobi)|An asynchronous multi-channel chat logger|
 |[DLBot_NextGen](https://github.com/light689/DLBot_ng)|A highly customizable lightweight bot that allows the WebUI to view logs/send messages/receive message commands|
+|[usv3](https://github.com/AnnikaV9/usv3-framework)|An extensible bot framework for hack.chat|
+|[whoami](https://github.com/cmd1152/whoami)|A Chinese-language robot running on the ?lounge platform|
 
 ### Bouncers:
 
@@ -63,11 +65,13 @@ Want to list your software that you've made? It's as easy as forking this reposi
 |--------|-------|-----------|
 |Python|[hclib](https://github.com/neelkamath/hclib)|A library to connect to https://hack.chat/
 |Python|[hackchat](https://github.com/gkbrk/hackchat)|An event-driven Python library for hack.chat|
-|Python|[hiyobot](https://github.com/Hiyoteam/hiyobot)|simple & powerful python bot framework for hack.chat|
+|Python|[hvicorn](https://github.com/Hiyoteam/hvicorn)|Powerful bot library for hack.chat, with type hinting.|
 |JavaScript|[hack.chat.js](https://github.com/WebFreak001/hack.chat.js)|*No longer maintained* API wrapper for hack.chat using ws package|
 |Rust|[rust-hackchat](https://github.com/gkbrk/rust-hackchat)|A hack.chat API in Rust.|
 |Rust|[Rust-Hackchat-Bot](https://github.com/JankieQwQ/rust-hackchat-bot)|An event-driven Rust library for hack.chat|
 |C#|[HackchatSharp](https://github.com/UnrealSecurity/HackchatSharp)|HackchatSharp is a C# library for hack.chat.|
+|Haskell|[hackchat-hs](https://github.com/Chihaya-Yuka/hackchat-haskell-bot)|Hack.Chat's functional bot. |
+|JavaScript|[HackChat-Botlib](https://github.com/cmd1152/hackchat-botlib)|A library for developing advanced robots, featuring command systems, channel change detection, and support for UpdateMessage and standardized JSON.|
 
 ### Android apps:
 
